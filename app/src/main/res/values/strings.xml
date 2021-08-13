@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="cat">Sort List By Category</string>
+    <string name="hSearch">Search For Specific Item</string>
+    <string name="showList">Show Items To Buy</string>
+    <string-array name="category">
+        <item>All Categories</item>
+        <item>Others</item>
+        <item>Alcohol</item>
+        <item>Baby</item>
+        <item>Beverages</item>
+        <item>Bakery</item>
+        <item>Breakfast</item>
+        <item>Canned Goods</item>
+        <item>Snacks</item>
+        <item>Dairy</item>
+        <item>Deli</item>
+        <item>Eggs</item>
+        <item>Flowers</item>
+        <item>Frozen Foods</item>
+        <item>Fruits and Vegetables</item>
+        <item>Grains,Pasta</item>
+        <item>Meat and Seafood</item>
+        <item>Miscellaneous</item>
+        <item>Paper Products</item>
+        <item>Powdered Drinks</item>
+        <item>Cleaning Supplies</item>
+        <item>Hygiene</item>
+        <item>Pet Care</item>
+        <item>Pharmacy</item>
+        <item>Tobacco</item>
+    </string-array>
+    <string name="add">Add New Item</string>
+    <string name="rem">Remove</string>
+    <string name="upd">Update</string>
+    <string name="can">Cancel</string>
+    <string name="addNew">Enter Item Name Here:</string>
+    <string-array name="categoryAdd">
+        <item>Others</item>
+        <item>Alcohol</item>
+        <item>Baby</item>
+        <item>Beverages</item>
+        <item>Bakery</item>
+        <item>Breakfast</item>
+        <item>Canned Goods</item>
+        <item>Snacks</item>
+        <item>Dairy</item>
+        <item>Deli</item>
+        <item>Eggs</item>
+        <item>Flowers</item>
+        <item>Frozen Foods</item>
+        <item>Fruits and Vegetables</item>
+        <item>Grains,Pasta</item>
+        <item>Meat and Seafood</item>
+        <item>Miscellaneous</item>
+        <item>Paper Products</item>
+        <item>Powdered Drinks</item>
+        <item>Cleaning Supplies</item>
+        <item>Hygiene</item>
+        <item>Pet Care</item>
+        <item>Pharmacy</item>
+        <item>Tobacco</item>
+    </string-array>
+    <string name="desc">Enter Item Description Here</string>
+    <string name="rate">Enter Rating For Item</string>
+</resources>
